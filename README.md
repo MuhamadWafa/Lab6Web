@@ -220,6 +220,59 @@ Membuat navigasi responsive yang bisa collapse (menjadi menu hamburger di mobile
 ## hasil browsernya
 <img width="1910" height="170" alt="Cuplikan layar 2025-10-30 214301" src="https://github.com/user-attachments/assets/eaf8174c-d741-4317-9808-672c568c9d59" />
 
+### 5. Komponen: Card (Kartu)
+Card adalah container konten yang fleksibel, menggantikan widget box atau box dari Praktikum 4.
+
+      <div class="d-flex justify-content-center">
+        <div class="card shadow-sm" style="width: 18rem;">
+          <img src="https://via.placeholder.com/286x180" class="card-img-top" alt="Foto Profil">
+          <div class="card-body">
+            <h5 class="card-title">Identitas</h5>
+            <p class="card-text">Ini adalah deskripsi singkat identitas saya.</p>
+            <a href="#" class="btn btn-primary">Lihat Detail</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+## hasil browsernya
+<img width="559" height="283" alt="Cuplikan layar 2025-10-30 214533" src="https://github.com/user-attachments/assets/762eb444-c4d8-4f6a-afd3-b5175d680809" />
+
+## 6. Komponen: Form (Formulir)
+Bootstrap men-styling elemen form agar terlihat rapi dan konsisten. Ini jauh lebih mudah daripada men-style form manual seperti di Praktikum 5.
+```
+<!-- Kolom Kanan -->
+    <div class="right-side">
+      <h2 class="text-center mb-3">Hubungi Saya</h2>
+      <form>
+        <div class="mb-3">
+          <label for="emailInput" class="form-label">Alamat Email</label>
+          <input type="email" class="form-control" id="emailInput" placeholder="nama@contoh.com">
+        </div>
+
+        <div class="mb-3">
+          <label for="pesanText" class="form-label">Pesan</label>
+          <textarea class="form-control" id="pesanText" rows="6" placeholder="Tulis pesan Anda di sini..."></textarea>
+        </div>
+
+        <div class="text-center">
+          <button type="submit" class="btn btn-primary">Kirim</button>
+        </div>
+      </form>
+    </div>
+
+  </div>
+
+  <!-- Script JS Bootstrap -->
+  <script 
+    src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+    crossorigin="anonymous">
+  </script>
+
+</body>
+</html>
+```
 
 
 
