@@ -191,3 +191,23 @@ Bootstrap menyediakan berbagai style tombol.
 ## Hasil browsernya
 <img width="932" height="64" alt="Cuplikan layar 2025-10-30 214043" src="https://github.com/user-attachments/assets/eec631a6-d34b-466f-b775-473abd280683" />
 
+4. Komponen: Navbar (Navigasi)
+Membuat navigasi responsive yang bisa collapse (menjadi menu hamburger di mobile) sangat mudah.
+
+   <div class="d-flex justify-content-center">
+        <div class="card shadow-sm" style="width: 18rem;">
+          <img src="https://via.placeholder.com/286x180" class="card-img-top" alt="Foto Profil">
+          <div class="card-body">
+            <h5 class="card-title">Identitas</h5>
+            <p class="card-text">Ini adalah deskripsi singkat identitas saya.</p>
+            <a href="#" class="btn btn-primary">Lihat Detail</a>
+          </div>
+        </div>
+      </div>
+    </div>
+## hasil browsernya
+<img width="1910" height="170" alt="Cuplikan layar 2025-10-30 214301" src="https://github.com/user-attachments/assets/eaf8174c-d741-4317-9808-672c568c9d59" />
+<img width="559" height="283" alt="Cuplikan layar 2025-10-30 214533" src="https://github.com/user-attachments/assets/af89f252-6f8d-4160-b0f2-63aa5f0c069f" />
+
+
+
