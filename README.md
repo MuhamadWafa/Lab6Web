@@ -177,3 +177,17 @@ Contoh Grid: Membuat 3 kolom sama lebar yang di layout Praktikum 4 harus menggun
 ## Hasil browsernya
 <img width="1309" height="798" alt="Cuplikan layar 2025-10-30 213752" src="https://github.com/user-attachments/assets/0d3f8ea6-ffe4-4974-8929-d293603c3331" />
 
+### 3. Komponen: Button (Tombol)
+Bootstrap menyediakan berbagai style tombol.
+
+
+      <div class="text-center mt-4">
+        <button class="btn btn-primary m-2">Primary</button>
+        <button class="btn btn-secondary m-2">Secondary</button>
+        <button class="btn btn-success m-2">Success</button>
+        <button class="btn btn-danger m-2">Danger</button>
+      </div>
+
+## Hasil browsernya
+<img width="932" height="64" alt="Cuplikan layar 2025-10-30 214043" src="https://github.com/user-attachments/assets/eec631a6-d34b-466f-b775-473abd280683" />
+
