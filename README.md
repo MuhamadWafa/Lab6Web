@@ -117,3 +117,33 @@ html
 ```
 ### hasil di browsernya
 <img width="1902" height="362" alt="Cuplikan layar 2025-10-30 135107" src="https://github.com/user-attachments/assets/726753d6-a415-447b-a208-0b216a438072" />
+
+## Materi Praktikum
+### 1. Container
+Bootstrap mengharuskan konten dibungkus di dalam container untuk mengatur lebar dan perataan.
+
+.container: Memberikan lebar maksimum yang tetap (fixed-width) yang berubah pada ukuran layar tertentu.
+.container-fluid: Memberikan lebar penuh (full-width) 100%.
+
+```
+
+      <div class="mb-3">
+        <h2>Nama</h2>
+        <p>Muhamad Wafa Mufida Zulfi</p>
+      </div>
+
+      <div class="mb-3">
+        <h2>Tempat, Tanggal Lahir</h2>
+        <p>Bekasi, 29 Desember 2006</p>
+      </div>
+
+      <div class="mb-3">
+        <h2>Agama</h2>
+        <p>Islam</p>
+      </div>
+
+      <div class="mb-3">
+        <h2>Pendidikan</h2>
+        <p>Universitas Pelita Bangsa</p>
+      </div>
+```
