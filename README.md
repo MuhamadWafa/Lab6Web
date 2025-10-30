@@ -148,3 +148,32 @@ Bootstrap mengharuskan konten dibungkus di dalam container untuk mengatur lebar 
         <p>Universitas Pelita Bangsa</p>
       </div>
 ```
+
+## Hasil Browssernya
+<img width="1919" height="1097" alt="Cuplikan layar 2025-10-30 140138" src="https://github.com/user-attachments/assets/66209073-c79f-4535-8ec2-e7fb767676d8" />
+
+### 2. Grid System (Sistem Grid)
+Ini adalah fitur inti Bootstrap yang menggantikan float manual. Sistem grid Bootstrap menggunakan 12 kolom.
+
+.row: Pembungkus untuk kolom. Ini menggantikan kebutuhan akan clearfix.
+.col: Menandakan sebuah kolom. Jika hanya .col, lebarnya akan dibagi rata.
+.col-{angka}: Menentukan lebar kolom dari 1 sampai 12. Contoh: .col-4 berarti lebar 4/12 (sepertiga).
+.col-{breakpoint}-{angka}: Menentukan lebar kolom pada ukuran layar tertentu (misal: md untuk medium).
+Contoh Grid: Membuat 3 kolom sama lebar yang di layout Praktikum 4 harus menggunakan float: left. Di Bootstrap, caranya:
+```
+
+ <div class="mt-4">
+        <div class="row text-center">
+          <div class="col bg-white p-3 m-2 rounded shadow-sm">Halo semuanya!!</div>
+          <div class="col bg-white p-3 m-2 rounded shadow-sm">Saya biasa dipanggil Upit</div>
+          <div class="col bg-white p-3 m-2 rounded shadow-sm">Hobi saya main musik</div>
+        </div>
+        <div class="row text-center mt-3">
+          <div class="col bg-white p-3 m-2 rounded shadow-sm">Senang bertemu dengan kalian</div>
+          <div class="col bg-white p-3 m-2 rounded shadow-sm">Sampai jumpa di lain hari</div>
+        </div>
+      </div>
+```
+## Hasil browsernya
+<img width="1309" height="798" alt="Cuplikan layar 2025-10-30 213752" src="https://github.com/user-attachments/assets/0d3f8ea6-ffe4-4974-8929-d293603c3331" />
+
