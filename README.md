@@ -193,6 +193,7 @@ Bootstrap menyediakan berbagai style tombol.
 
 4. Komponen: Navbar (Navigasi)
 Membuat navigasi responsive yang bisa collapse (menjadi menu hamburger di mobile) sangat mudah.
+```
   <!-- Navbar Bootstrap -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container-fluid">
@@ -215,7 +216,7 @@ Membuat navigasi responsive yang bisa collapse (menjadi menu hamburger di mobile
       </div>
     </div>
   </nav>
-
+```
 ## hasil browsernya
 <img width="1910" height="170" alt="Cuplikan layar 2025-10-30 214301" src="https://github.com/user-attachments/assets/eaf8174c-d741-4317-9808-672c568c9d59" />
 
