@@ -123,6 +123,7 @@ html
 Bootstrap mengharuskan konten dibungkus di dalam container untuk mengatur lebar dan perataan.
 
 .container: Memberikan lebar maksimum yang tetap (fixed-width) yang berubah pada ukuran layar tertentu.
+
 .container-fluid: Memberikan lebar penuh (full-width) 100%.
 
 ```
