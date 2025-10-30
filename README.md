@@ -276,7 +276,17 @@ Bootstrap men-styling elemen form agar terlihat rapi dan konsisten. Ini jauh leb
 ## hasil browsernya
 <img width="1914" height="376" alt="Cuplikan layar 2025-10-30 214703" src="https://github.com/user-attachments/assets/651a2baf-1477-4e53-bb2c-3677d39cacd1" />
 
+# pernyataan dan tugas
 
+<img width="778" height="662" alt="image" src="https://github.com/user-attachments/assets/95756b63-3c8e-44a9-9e4e-87b6be97be74" />
+
+# code programnya
+
+<img width="2140" height="7284" alt="code" src="https://github.com/user-attachments/assets/527effd7-f94a-4677-95d7-bc91238fd970" />
+
+## hasil di browser
+
+<img width="1916" height="1186" alt="Cuplikan layar 2025-10-30 220424" src="https://github.com/user-attachments/assets/6548612f-e845-4aee-8fb6-89a540cfb1ae" />
 
 
 
